@@ -1,0 +1,17 @@
+# ignore everything
+/*
+
+# http://php-pds.com/
+
+## dirs
+!/bin/
+!/config/
+!/src/
+!/tests/
+
+## files
+!/.gitattributes
+!/.gitignore
+!/composer.json
+!/LICENSE*
+!/README*
